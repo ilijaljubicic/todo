@@ -1,5 +1,5 @@
 - [x] a task list item
-- [ ] where to stay in berlin: issue #1
+- [ ] where to stay in berlin: issue #1 refs
 - [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete
 - [x] completed
