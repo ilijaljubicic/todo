@@ -1,9 +1,5 @@
-# todo
-personal todo list
+# Todo
+Personal todo list, please don't spy me :)
 
 
-- [x] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
+
